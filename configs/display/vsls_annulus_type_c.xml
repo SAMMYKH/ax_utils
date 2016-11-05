@@ -1,0 +1,15 @@
+<display>
+    <uniqueID>18</uniqueID>
+    <name>VSLS Annulus Type C</name>
+    <description>Variable Speed Limit Sign annulus 6 x AG11006 in a ring starting from top right corner when viewed from front of sign.</description>
+    <xRes>192</xRes>
+    <yRes>6</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="0" yPos="0"/>
+        <module index="1" xPos="160" yPos="0"/>
+        <module index="2" xPos="128" yPos="0"/>
+        <module index="3" xPos="96" yPos="0"/>
+        <module index="4" xPos="64" yPos="0"/>
+        <module index="5" xPos="32" yPos="0"/>
+    </superChannel>
+</display>

@@ -1,0 +1,21 @@
+<module>
+    <uniqueID>16</uniqueID>
+    <partNumber>ax_16x16_p12_rgb_smt</partNumber>
+    <name>P12 RGB 3-in-1 SMT</name>
+    <description>P12 SMT RGB module with 3-in-1 LEDs.</description>
+    <xRes>16</xRes>
+    <yRes>16</yRes>
+    <scanLines>4</scanLines>
+    <channel id="0">
+        [ 31,  30,  29,  28,  27,  26,  25,  24,   8,   9,  10,  11,  12,  13,  14,  15,
+          23,  22,  21,  20,  19,  18,  17,  16,   0,   1,   2,   3,   4,   5,   6,   7]
+    </channel>
+    <channel id="1">
+        [ 63,  62,  61,  60,  59,  58,  57,  56,  40,  41,  42,  43,  44,  45,  46,  47,
+          55,  54,  53,  52,  51,  50,  49,  48,  32,  33,  34,  35,  36,  37,  38,  39]
+    </channel>
+    <voltage>24V</voltage>
+    <staticPower>0.3W</staticPower>
+    <maxPower>13.1W</maxPower>
+    <pitch>12mm</pitch>
+</module>

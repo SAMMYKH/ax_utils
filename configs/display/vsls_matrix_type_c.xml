@@ -1,0 +1,14 @@
+<display>
+    <uniqueID>19</uniqueID>
+    <name>VSLS Matrix Type C</name>
+    <description>Variable Speed Limit Sign matrix display 5 x AG11008 data from right to left.</description>
+    <xRes>40</xRes>
+    <yRes>20</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="32" yPos="0"/>
+        <module index="1" xPos="24" yPos="0"/>
+        <module index="2" xPos="16" yPos="0"/>
+        <module index="3" xPos="8" yPos="0"/>
+        <module index="4" xPos="0" yPos="0"/>
+    </superChannel>
+</display>

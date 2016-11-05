@@ -1,0 +1,31 @@
+<display>
+    <uniqueID>13</uniqueID>
+    <name>Trip time display bar graph</name>
+    <description>4x 4-segment high RGB bar graph.</description>
+    <xRes>16</xRes>
+    <yRes>256</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="0" yPos="240"/>
+        <module index="1" xPos="0" yPos="224"/>
+        <module index="2" xPos="0" yPos="208"/>
+        <module index="3" xPos="0" yPos="192"/>
+    </superChannel>
+    <superChannel id="1">
+        <module index="0" xPos="0" yPos="176"/>
+        <module index="1" xPos="0" yPos="160"/>
+        <module index="2" xPos="0" yPos="144"/>
+        <module index="3" xPos="0" yPos="128"/>
+    </superChannel>
+    <superChannel id="2">
+        <module index="0" xPos="0" yPos="112"/>
+        <module index="1" xPos="0" yPos="96"/>
+        <module index="2" xPos="0" yPos="80"/>
+        <module index="3" xPos="0" yPos="64"/>
+    </superChannel>
+    <superChannel id="3">
+        <module index="0" xPos="0" yPos="48"/>
+        <module index="1" xPos="0" yPos="32"/>
+        <module index="2" xPos="0" yPos="16"/>
+        <module index="3" xPos="0" yPos="0"/>
+    </superChannel>
+</display>

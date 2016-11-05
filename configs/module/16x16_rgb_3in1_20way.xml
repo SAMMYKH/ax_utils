@@ -1,0 +1,25 @@
+<module>
+    <uniqueID>22</uniqueID>
+    <partNumber>YH-DT12-1R1PG1B-2SF2-05</partNumber>
+    <name>P12 RGB 3-in-1 20-way</name>
+    <description>P12 SMT RGB module with 3-in-1 LEDs using a 20-way connector.</description>
+    <xRes>16</xRes>
+    <yRes>16</yRes>
+    <scanLines>2</scanLines>
+    <channel id="0">
+        [ 63,  47,  31,  15,  62,  46,  30,  14,  61,  45,  29,  13,  60,  44,  28,  12,
+          59,  43,  27,  11,  58,  42,  26,  10,  57,  41,  25,   9,  56,  40,  24,   8,
+          55,  39,  23,   7,  54,  38,  22,   6,  53,  37,  21,   5,  52,  36,  20,   4,
+          51,  35,  19,   3,  50,  34,  18,   2,  49,  33,  17,   1,  48,  32,  16,   0]
+    </channel>
+    <channel id="1">
+        [127, 111,  95,  79, 126, 110,  94,  78, 125, 109,  93,  77, 124, 108,  92,  76,
+         123, 107,  91,  75, 122, 106,  90,  74, 121, 105,  89,  73, 120, 104,  88,  72,
+         119, 103,  87,  71, 118, 102,  86,  70, 117, 101,  85,  69, 116, 100,  84,  68,
+         115,  99,  83,  67, 114,  98,  82,  66, 113,  97,  81,  65, 112,  96,  80,  64]
+    </channel>
+    <voltage>5V</voltage>
+    <staticPower>0.3W</staticPower>
+    <maxPower>13.1W</maxPower>
+    <pitch>12mm</pitch>
+</module>

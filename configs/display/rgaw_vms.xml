@@ -1,0 +1,71 @@
+<display>
+    <uniqueID>29</uniqueID>
+    <name>Axent RGAW VMS</name>
+    <description>8 by 4 modules, one superchannel per row.</description>
+    <xRes>128</xRes>
+    <yRes>56</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="112" yPos="40"/>
+        <module index="1" xPos="112" yPos="48"/>
+        <module index="2" xPos="96" yPos="40"/>
+        <module index="3" xPos="96" yPos="48"/>
+        <module index="4" xPos="80" yPos="40"/>
+        <module index="5" xPos="80" yPos="48"/>
+        <module index="6" xPos="64" yPos="40"/>
+        <module index="7" xPos="64" yPos="48"/>
+        <module index="8" xPos="48" yPos="40"/>
+        <module index="9" xPos="48" yPos="48"/>
+        <module index="10" xPos="32" yPos="40"/>
+        <module index="11" xPos="32" yPos="48"/>
+        <module index="12" xPos="16" yPos="40"/>
+        <module index="13" xPos="16" yPos="48"/>
+        <module index="14" xPos="0" yPos="40"/>
+        <module index="15" xPos="0" yPos="48"/>
+    </superChannel>
+    <superChannel id="1">
+        <module index="0" xPos="112" yPos="24"/>
+        <module index="1" xPos="112" yPos="32"/>
+        <module index="2" xPos="96" yPos="24"/>
+        <module index="3" xPos="96" yPos="32"/>
+        <module index="4" xPos="80" yPos="24"/>
+        <module index="5" xPos="80" yPos="32"/>
+        <module index="6" xPos="64" yPos="24"/>
+        <module index="7" xPos="64" yPos="32"/>
+        <module index="8" xPos="48" yPos="24"/>
+        <module index="9" xPos="48" yPos="32"/>
+        <module index="10" xPos="32" yPos="24"/>
+        <module index="11" xPos="32" yPos="32"/>
+        <module index="12" xPos="16" yPos="24"/>
+        <module index="13" xPos="16" yPos="32"/>
+        <module index="14" xPos="0" yPos="24"/>
+        <module index="15" xPos="0" yPos="32"/>
+    </superChannel>
+    <superChannel id="2">
+        <module index="0" xPos="112" yPos="8"/>
+        <module index="1" xPos="112" yPos="16"/>
+        <module index="2" xPos="96" yPos="8"/>
+        <module index="3" xPos="96" yPos="16"/>
+        <module index="4" xPos="80" yPos="8"/>
+        <module index="5" xPos="80" yPos="16"/>
+        <module index="6" xPos="64" yPos="8"/>
+        <module index="7" xPos="64" yPos="16"/>
+        <module index="8" xPos="48" yPos="8"/>
+        <module index="9" xPos="48" yPos="16"/>
+        <module index="10" xPos="32" yPos="8"/>
+        <module index="11" xPos="32" yPos="16"/>
+        <module index="12" xPos="16" yPos="8"/>
+        <module index="13" xPos="16" yPos="16"/>
+        <module index="14" xPos="0" yPos="8"/>
+        <module index="15" xPos="0" yPos="16"/>
+    </superChannel>
+    <superChannel id="3">
+        <module index="0" xPos="112" yPos="0"/>
+        <module index="1" xPos="96" yPos="0"/>
+        <module index="2" xPos="80" yPos="0"/>
+        <module index="3" xPos="64" yPos="0"/>
+        <module index="4" xPos="48" yPos="0"/>
+        <module index="5" xPos="32" yPos="0"/>
+        <module index="6" xPos="16" yPos="0"/>
+        <module index="7" xPos="0" yPos="0"/>
+    </superChannel>
+</display>

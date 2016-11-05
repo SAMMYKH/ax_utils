@@ -1,0 +1,63 @@
+<display>
+    <uniqueID>12</uniqueID>
+    <name>Trip time display</name>
+    <description>4x 3x4 displays, one per superchannel.</description>
+    <xRes>48</xRes>
+    <yRes>128</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="32" yPos="120"/>
+        <module index="1" xPos="16" yPos="120"/>
+        <module index="2" xPos="0" yPos="120"/>
+        <module index="3" xPos="32" yPos="112"/>
+        <module index="4" xPos="16" yPos="112"/>
+        <module index="5" xPos="0" yPos="112"/>
+        <module index="6" xPos="32" yPos="104"/>
+        <module index="7" xPos="16" yPos="104"/>
+        <module index="8" xPos="0" yPos="104"/>
+        <module index="9" xPos="32" yPos="96"/>
+        <module index="10" xPos="16" yPos="96"/>
+        <module index="11" xPos="0" yPos="96"/>
+    </superChannel>
+    <superChannel id="1">
+        <module index="0" xPos="32" yPos="88"/>
+        <module index="1" xPos="16" yPos="88"/>
+        <module index="2" xPos="0" yPos="88"/>
+        <module index="3" xPos="32" yPos="80"/>
+        <module index="4" xPos="16" yPos="80"/>
+        <module index="5" xPos="0" yPos="80"/>
+        <module index="6" xPos="32" yPos="72"/>
+        <module index="7" xPos="16" yPos="72"/>
+        <module index="8" xPos="0" yPos="72"/>
+        <module index="9" xPos="32" yPos="64"/>
+        <module index="10" xPos="16" yPos="64"/>
+        <module index="11" xPos="0" yPos="64"/>
+    </superChannel>
+    <superChannel id="2">
+        <module index="0" xPos="32" yPos="56"/>
+        <module index="1" xPos="16" yPos="56"/>
+        <module index="2" xPos="0" yPos="56"/>
+        <module index="3" xPos="32" yPos="48"/>
+        <module index="4" xPos="16" yPos="48"/>
+        <module index="5" xPos="0" yPos="48"/>
+        <module index="6" xPos="32" yPos="40"/>
+        <module index="7" xPos="16" yPos="40"/>
+        <module index="8" xPos="0" yPos="40"/>
+        <module index="9" xPos="32" yPos="32"/>
+        <module index="10" xPos="16" yPos="32"/>
+        <module index="11" xPos="0" yPos="32"/>
+    </superChannel>
+    <superChannel id="3">
+        <module index="0" xPos="32" yPos="24"/>
+        <module index="1" xPos="16" yPos="24"/>
+        <module index="2" xPos="0" yPos="24"/>
+        <module index="3" xPos="32" yPos="16"/>
+        <module index="4" xPos="16" yPos="16"/>
+        <module index="5" xPos="0" yPos="16"/>
+        <module index="6" xPos="32" yPos="8"/>
+        <module index="7" xPos="16" yPos="8"/>
+        <module index="8" xPos="0" yPos="8"/>
+        <module index="9" xPos="32" yPos="0"/>
+        <module index="10" xPos="16" yPos="0"/>
+        <module index="11" xPos="0" yPos="0"/>
+    </superChannel>
+</display>

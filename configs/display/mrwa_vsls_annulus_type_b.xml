@@ -1,0 +1,13 @@
+<display>
+    <uniqueID>23</uniqueID>
+    <name>VSLS Annulus Type B</name>
+    <description>Variable Speed Limit Sign annulus 4 x AG14014 in a ring starting from top right corner when viewed from front of sign.</description>
+    <xRes>64</xRes>
+    <yRes>3</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="0" yPos="0"/>
+        <module index="1" xPos="48" yPos="0"/>
+        <module index="2" xPos="32" yPos="0"/>
+        <module index="3" xPos="16" yPos="0"/>
+    </superChannel>
+</display>

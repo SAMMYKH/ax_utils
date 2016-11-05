@@ -1,0 +1,13 @@
+<display>
+    <uniqueID>20</uniqueID>
+    <name>VSLS Lanterns Type C</name>
+    <description>Variable Speed Limit Sign lanterns one in each corner data from right to left, top to bottom.</description>
+    <xRes>64</xRes>
+    <yRes>8</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="48" yPos="0"/>
+        <module index="1" xPos="32" yPos="0"/>
+        <module index="2" xPos="16" yPos="0"/>
+        <module index="3" xPos="0" yPos="0"/>
+    </superChannel>
+</display>

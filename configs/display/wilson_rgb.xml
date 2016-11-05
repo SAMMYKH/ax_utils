@@ -1,0 +1,52 @@
+<display>
+    <uniqueID>21</uniqueID>
+    <name>Wilson RGB Sign</name>
+    <description>RGB Car Park Sign for Wilson Parking.</description>
+    <xRes>112</xRes>
+    <yRes>80</yRes>
+    <superChannel id="0">
+        <module index="0" xPos="96" yPos="0"/>
+        <module index="1" xPos="80" yPos="0"/>
+        <module index="2" xPos="64" yPos="0"/>
+        <module index="3" xPos="48" yPos="0"/>
+        <module index="4" xPos="32" yPos="0"/>
+        <module index="5" xPos="16" yPos="0"/>
+        <module index="6" xPos="0" yPos="0"/>
+    </superChannel>
+    <superChannel id="1">
+        <module index="0" xPos="96" yPos="16"/>
+        <module index="1" xPos="80" yPos="16"/>
+        <module index="2" xPos="64" yPos="16"/>
+        <module index="3" xPos="48" yPos="16"/>
+        <module index="4" xPos="32" yPos="16"/>
+        <module index="5" xPos="16" yPos="16"/>
+        <module index="6" xPos="0" yPos="16"/>
+    </superChannel>
+    <superChannel id="2">
+        <module index="0" xPos="96" yPos="32"/>
+        <module index="1" xPos="80" yPos="32"/>
+        <module index="2" xPos="64" yPos="32"/>
+        <module index="3" xPos="48" yPos="32"/>
+        <module index="4" xPos="32" yPos="32"/>
+        <module index="5" xPos="16" yPos="32"/>
+        <module index="6" xPos="0" yPos="32"/>
+    </superChannel>
+    <superChannel id="3">
+        <module index="0" xPos="96" yPos="48"/>
+        <module index="1" xPos="80" yPos="48"/>
+        <module index="2" xPos="64" yPos="48"/>
+        <module index="3" xPos="48" yPos="48"/>
+        <module index="4" xPos="32" yPos="48"/>
+        <module index="5" xPos="16" yPos="48"/>
+        <module index="6" xPos="0" yPos="48"/>
+    </superChannel>
+    <superChannel id="4">
+        <module index="0" xPos="96" yPos="64"/>
+        <module index="1" xPos="80" yPos="64"/>
+        <module index="2" xPos="64" yPos="64"/>
+        <module index="3" xPos="48" yPos="64"/>
+        <module index="4" xPos="32" yPos="64"/>
+        <module index="5" xPos="16" yPos="64"/>
+        <module index="6" xPos="0" yPos="64"/>
+    </superChannel>
+</display>
